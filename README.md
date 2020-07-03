@@ -8,9 +8,8 @@ The dataset consists of several variables and one target variable that is outcom
 2)Glucose: Plasma Glucose Concentration a 2 hour in an oral glucose tolerance test (mg/dl) 
 
 3)Blood Pressure:  
-Blood Pressure(mmHg):a) If Diastolic B.P &gt; 90 means High B.P (High Probability of Diabetes) 
-
-                     b)              B.P &lt; 60 means low B.P (Less Probability of Diabetes)
+Blood Pressure(mmHg):a) If Diastolic B.P &gt; 90 means High B.P (High Probability of Diabetes)
+b) B.P &lt; 60 means low B.P (Less Probability of Diabetes)
 
 4)Skin Thickness: Triceps Skin Fold Thickness (mm) – A value used to estimate body fat. Normal Triceps SkinFold Thickness in women is 23mm. Higher thickness leads to obesity and chances of diabetes increases.
 
