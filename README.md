@@ -2,6 +2,7 @@
  Predicting diabetes project contains a jupyter notebook in which it tells whether patient has diabetes or not.
 The dataset consists of several variables and one target variable that is outcome. The several variables are number of pregnancies,BMI,insulin level,ages.
 
+Link for the dataset :-
 
 1)Pregnancies: No. of times pregnant
 
@@ -22,3 +23,13 @@ b) B.P &lt; 60 means low B.P (Less Probability of Diabetes)
 8)Age (years)
 
 9)Outcome: Class Variable (0 or 1) where ‘0’ denotes patient is not having diabetes and ‘1’ denotes patient having diabetes The dependent variable is whether the patient is having diabetes or not
+
+Data visualization is done by using 
+
+1)Count plot
+
+2)Histogram 
+
+3)Heatmap 
+
+4)Boxplot 
